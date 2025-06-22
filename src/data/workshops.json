@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "3D Printing Basics",
+    "domain": "Mechanical",
+    "date": "2025-07-10",
+    "status": "upcoming",
+    "description": "Learn the fundamentals of 3D printing and create your first prototype."
+  },
+  {
+    "id": 2,
+    "title": "Intro to IoT",
+    "domain": "Electronics",
+    "date": "2025-06-01",
+    "status": "past",
+    "description": "Connect sensors and devices to the internet and build smart systems."
+  },
+  {
+    "id": 3,
+    "title": "Design Thinking",
+    "domain": "Product",
+    "date": "2025-07-18",
+    "status": "upcoming",
+    "description": "Explore innovative design methods to solve real-world problems."
+  },
+  {
+    "id": 4,
+    "title": "Python for AI",
+    "domain": "Computer Science",
+    "date": "2025-06-30",
+    "status": "upcoming",
+    "description": "Get started with Python programming for machine learning and AI."
+  },
+  {
+    "id": 5,
+    "title": "Robotics 101",
+    "domain": "Mechanical",
+    "date": "2025-06-05",
+    "status": "past",
+    "description": "Learn basic concepts in robotics and build your first robot."
+  },
+  {
+    "id": 6,
+    "title": "App Design Bootcamp",
+    "domain": "Product",
+    "date": "2025-07-22",
+    "status": "upcoming",
+    "description": "Create user-friendly mobile apps with intuitive UI/UX design."
+  },
+  {
+    "id": 7,
+    "title": "Embedded Systems Workshop",
+    "domain": "Electronics",
+    "date": "2025-06-15",
+    "status": "past",
+    "description": "Program microcontrollers and understand embedded system architecture."
+  },
+  {
+    "id": 8,
+    "title": "Cloud Computing Crash Course",
+    "domain": "Computer Science",
+    "date": "2025-07-12",
+    "status": "upcoming",
+    "description": "Learn cloud infrastructure basics and deploy your first application."
+  },
+  {
+    "id": 9,
+    "title": "CAD Modeling for Beginners",
+    "domain": "Mechanical",
+    "date": "2025-06-10",
+    "status": "past",
+    "description": "Design 3D parts using CAD tools and understand modeling workflows."
+  },
+  {
+    "id": 10,
+    "title": "AI Ethics Seminar",
+    "domain": "Computer Science",
+    "date": "2025-07-25",
+    "status": "upcoming",
+    "description": "Discuss the ethical implications and responsibilities of AI development."
+  },
+  {
+    "id": 11,
+    "title": "Intro to PCB Design",
+    "domain": "Electronics",
+    "date": "2025-06-20",
+    "status": "past",
+    "description": "Create your own printed circuit board using EDA software."
+  },
+  {
+    "id": 12,
+    "title": "Product Lifecycle Management",
+    "domain": "Product",
+    "date": "2025-07-15",
+    "status": "upcoming",
+    "description": "Understand the stages of product development from idea to market."
+  },
+  {
+    "id": 13,
+    "title": "Intro to Data Structures",
+    "domain": "Computer Science",
+    "date": "2025-06-03",
+    "status": "past",
+    "description": "Learn the foundational data structures used in software development."
+  },
+  {
+    "id": 14,
+    "title": "Arduino Projects Lab",
+    "domain": "Electronics",
+    "date": "2025-06-25",
+    "status": "past",
+    "description": "Build real-world projects using Arduino and simple components."
+  },
+  {
+    "id": 15,
+    "title": "3D CAD Challenge",
+    "domain": "Mechanical",
+    "date": "2025-07-20",
+    "status": "upcoming",
+    "description": "Compete in designing innovative mechanical systems using CAD."
+  },
+  {
+    "id": 16,
+    "title": "Startup Ideation Workshop",
+    "domain": "Product",
+    "date": "2025-06-18",
+    "status": "past",
+    "description": "Brainstorm and validate startup ideas using lean methodology."
+  },
+  {
+    "id": 17,
+    "title": "AI Model Deployment",
+    "domain": "Computer Science",
+    "date": "2025-07-05",
+    "status": "upcoming",
+    "description": "Deploy trained AI models using web-based interfaces and APIs."
+  },
+  {
+    "id": 18,
+    "title": "Sensor Interfacing Tutorial",
+    "domain": "Electronics",
+    "date": "2025-06-06",
+    "status": "past",
+    "description": "Connect and read data from various sensors using microcontrollers."
+  },
+  {
+    "id": 19,
+    "title": "Fusion 360 Workshop",
+    "domain": "Mechanical",
+    "date": "2025-07-02",
+    "status": "upcoming",
+    "description": "Master Fusion 360 tools for professional mechanical design."
+  },
+  {
+    "id": 20,
+    "title": "UX Research and Testing",
+    "domain": "Product",
+    "date": "2025-06-12",
+    "status": "past",
+    "description": "Conduct usability testing and gather feedback for product improvement."
+  },
+  {
+    "id": 21,
+    "title": "Full Stack Web Dev",
+    "domain": "Computer Science",
+    "date": "2025-07-28",
+    "status": "upcoming",
+    "description": "Build dynamic websites using modern web frameworks and databases."
+  },
+  {
+    "id": 22,
+    "title": "Analog Circuit Design",
+    "domain": "Electronics",
+    "date": "2025-06-08",
+    "status": "past",
+    "description": "Design and simulate analog circuits using industry-standard tools."
+  },
+  {
+    "id": 23,
+    "title": "Mechanical Drafting Lab",
+    "domain": "Mechanical",
+    "date": "2025-07-08",
+    "status": "upcoming",
+    "description": "Learn to create engineering drawings and blueprints for manufacturing."
+  },
+  {
+    "id": 24,
+    "title": "Product Branding 101",
+    "domain": "Product",
+    "date": "2025-06-14",
+    "status": "past",
+    "description": "Explore branding strategies and design effective product identities."
+  },
+  {
+    "id": 25,
+    "title": "Natural Language Processing",
+    "domain": "Computer Science",
+    "date": "2025-07-17",
+    "status": "upcoming",
+    "description": "Process and analyze text data using NLP tools and models."
+  }
+]
