@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Fix login bug on mobile",
+    "priority": "High",
+    "status": "In Progress",
+    "due_date": "2025-06-25",
+    "description": "Resolve the issue with login not working on smaller screens."
+  },
+  {
+    "id": 2,
+    "title": "Update team onboarding doc",
+    "priority": "Medium",
+    "status": "Pending",
+    "due_date": "2025-06-24",
+    "description": "Include the latest steps for setting up the dev environment."
+  },
+  {
+    "id": 3,
+    "title": "Refactor payment module",
+    "priority": "High",
+    "status": "Pending",
+    "due_date": "2025-06-30",
+    "description": "Simplify logic and improve performance in payment processing."
+  },
+  {
+    "id": 4,
+    "title": "Design homepage banner",
+    "priority": "Low",
+    "status": "Completed",
+    "due_date": "2025-06-18",
+    "description": "Create an engaging hero section for the homepage."
+  },
+  {
+    "id": 5,
+    "title": "Add dark mode toggle",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2025-06-27",
+    "description": "Implement dark mode using CSS variables."
+  },
+  {
+    "id": 6,
+    "title": "Prepare sprint report",
+    "priority": "High",
+    "status": "Completed",
+    "due_date": "2025-06-21",
+    "description": "Summarize completed tasks and blockers for the sprint."
+  },
+  {
+    "id": 7,
+    "title": "Optimize image loading",
+    "priority": "Medium",
+    "status": "Pending",
+    "due_date": "2025-07-02",
+    "description": "Reduce image sizes and implement lazy loading."
+  },
+  {
+    "id": 8,
+    "title": "Research new auth APIs",
+    "priority": "Low",
+    "status": "Pending",
+    "due_date": "2025-07-05",
+    "description": "Evaluate Firebase and Auth0 for upcoming features."
+  },
+  {
+    "id": 9,
+    "title": "Fix broken links in docs",
+    "priority": "Low",
+    "status": "In Progress",
+    "due_date": "2025-06-28",
+    "description": "Go through documentation and fix all 404 errors."
+  },
+  {
+    "id": 10,
+    "title": "Integrate Stripe payments",
+    "priority": "High",
+    "status": "Pending",
+    "due_date": "2025-07-01",
+    "description": "Set up Stripe checkout flow for the new subscription model."
+  },
+  {
+    "id": 11,
+    "title": "Code review PR #87",
+    "priority": "Medium",
+    "status": "Completed",
+    "due_date": "2025-06-20",
+    "description": "Review the changes related to notification system refactor."
+  },
+  {
+    "id": 12,
+    "title": "Write unit tests for API",
+    "priority": "High",
+    "status": "In Progress",
+    "due_date": "2025-06-29",
+    "description": "Ensure all endpoints are covered with test cases."
+  },
+  {
+    "id": 13,
+    "title": "Deploy to staging",
+    "priority": "Medium",
+    "status": "Completed",
+    "due_date": "2025-06-22",
+    "description": "Push current build to the staging server for internal testing."
+  },
+  {
+    "id": 14,
+    "title": "Add FAQs section",
+    "priority": "Low",
+    "status": "Pending",
+    "due_date": "2025-07-04",
+    "description": "Create an accordion-style FAQ section for the help page."
+  },
+  {
+    "id": 15,
+    "title": "Fix CSS issues on Safari",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2025-06-26",
+    "description": "Check responsive layout issues on Safari browser."
+  },
+  {
+    "id": 16,
+    "title": "Export user data feature",
+    "priority": "High",
+    "status": "Pending",
+    "due_date": "2025-07-03",
+    "description": "Allow users to download their data in CSV/JSON format."
+  },
+  {
+    "id": 17,
+    "title": "Update contact page info",
+    "priority": "Low",
+    "status": "Completed",
+    "due_date": "2025-06-17",
+    "description": "Correct phone numbers and support email."
+  },
+  {
+    "id": 18,
+    "title": "Plan webinar slides",
+    "priority": "Medium",
+    "status": "Pending",
+    "due_date": "2025-07-06",
+    "description": "Create a slide deck for the upcoming tech webinar."
+  },
+  {
+    "id": 19,
+    "title": "Set up CI/CD pipeline",
+    "priority": "High",
+    "status": "In Progress",
+    "due_date": "2025-06-30",
+    "description": "Automate build, test, and deployment using GitHub Actions."
+  },
+  {
+    "id": 20,
+    "title": "Database backup script",
+    "priority": "Medium",
+    "status": "Pending",
+    "due_date": "2025-07-02",
+    "description": "Write a cron job to back up the database daily."
+  },
+  {
+    "id": 21,
+    "title": "User feedback form",
+    "priority": "Low",
+    "status": "Pending",
+    "due_date": "2025-07-01",
+    "description": "Create a form to collect feedback from users post-launch."
+  },
+  {
+    "id": 22,
+    "title": "Setup analytics tracking",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2025-06-27",
+    "description": "Integrate Google Analytics and custom event tracking."
+  },
+  {
+    "id": 23,
+    "title": "Fix accessibility issues",
+    "priority": "High",
+    "status": "Pending",
+    "due_date": "2025-07-03",
+    "description": "Ensure app complies with WCAG 2.1 guidelines."
+  },
+  {
+    "id": 24,
+    "title": "Review legal policies",
+    "priority": "Low",
+    "status": "Pending",
+    "due_date": "2025-07-08",
+    "description": "Verify if privacy policy and terms of service are up to date."
+  },
+  {
+    "id": 25,
+    "title": "Create project wiki",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2025-07-07",
+    "description": "Document the project structure, setup, and contribution guide."
+  }
+]

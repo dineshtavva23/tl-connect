@@ -5,7 +5,8 @@
     "domain": "Mechanical",
     "date": "2025-07-10",
     "status": "upcoming",
-    "description": "Learn the fundamentals of 3D printing and create your first prototype."
+    "description": "Learn the fundamentals of 3D printing and create your first prototype.",
+    "details":"Learn the fundamentals of 3D printing and create your first prototype. This session will dive deeper into the core principles, materials used in additive manufacturing, and types of printers available. You will participate in hands-on activities to model and print basic objects, helping you understand the end-to-end process of prototyping through 3D printing."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "domain": "Electronics",
     "date": "2025-06-01",
     "status": "past",
-    "description": "Connect sensors and devices to the internet and build smart systems."
+    "description": "Connect sensors and devices to the internet and build smart systems.",
+    "details":"Connect sensors and devices to the internet and build smart systems. This workshop introduces key IoT concepts including microcontroller programming, communication protocols, and cloud integration. Through real-time examples and projects, you'll gain practical experience in building responsive, connected devices."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "domain": "Product",
     "date": "2025-07-18",
     "status": "upcoming",
-    "description": "Explore innovative design methods to solve real-world problems."
+    "description": "Explore innovative design methods to solve real-world problems.",
+    "details":"Explore innovative design methods to solve real-world problems. This session will guide you through the five phases of design thinking—Empathize, Define, Ideate, Prototype, and Test—using real-life case studies. You'll engage in collaborative brainstorming and rapid prototyping exercises to practice user-centric innovation."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "domain": "Computer Science",
     "date": "2025-06-30",
     "status": "upcoming",
-    "description": "Get started with Python programming for machine learning and AI."
+    "description": "Get started with Python programming for machine learning and AI.",
+    "details":"Get started with Python programming for machine learning and AI. You'll learn Python syntax, data structures, and popular libraries like NumPy and scikit-learn through practical coding tasks. This workshop prepares you for more advanced AI concepts by building a strong programming foundation."
   },
   {
     "id": 5,
@@ -37,7 +41,9 @@
     "domain": "Mechanical",
     "date": "2025-06-05",
     "status": "past",
-    "description": "Learn basic concepts in robotics and build your first robot."
+    "description": "Learn basic concepts in robotics and build your first robot.",
+    "details":"Learn basic concepts in robotics and build your first robot. This session will introduce you to actuators, sensors, and control systems. You’ll work on a simple robotic prototype, gaining first-hand experience with both hardware assembly and basic software programming."
+
   },
   {
     "id": 6,
@@ -45,7 +51,8 @@
     "domain": "Product",
     "date": "2025-07-22",
     "status": "upcoming",
-    "description": "Create user-friendly mobile apps with intuitive UI/UX design."
+    "description": "Create user-friendly mobile apps with intuitive UI/UX design.",
+    "details":"Create user-friendly mobile apps with intuitive UI/UX design. You'll explore the design thinking process, wireframing, and usability principles. Hands-on sessions will cover tools like Figma and prototyping platforms, helping you build a fully functional app interface."
   },
   {
     "id": 7,
@@ -53,7 +60,8 @@
     "domain": "Electronics",
     "date": "2025-06-15",
     "status": "past",
-    "description": "Program microcontrollers and understand embedded system architecture."
+    "description": "Program microcontrollers and understand embedded system architecture.",
+    "details":"Program microcontrollers and understand embedded system architecture. You'll explore C/C++ programming for microcontrollers, peripheral interfacing, and real-time systems. Through guided lab sessions, you'll build and test basic embedded applications."
   },
   {
     "id": 8,
@@ -61,7 +69,8 @@
     "domain": "Computer Science",
     "date": "2025-07-12",
     "status": "upcoming",
-    "description": "Learn cloud infrastructure basics and deploy your first application."
+    "description": "Learn cloud infrastructure basics and deploy your first application.",
+    "details":"Learn cloud infrastructure basics and deploy your first application. This workshop covers the core services of major cloud providers, containerization using Docker, and basic deployment workflows using platforms like AWS or Azure."
   },
   {
     "id": 9,
@@ -69,7 +78,8 @@
     "domain": "Mechanical",
     "date": "2025-06-10",
     "status": "past",
-    "description": "Design 3D parts using CAD tools and understand modeling workflows."
+    "description": "Design 3D parts using CAD tools and understand modeling workflows.",
+    "details":"Design 3D parts using CAD tools and understand modeling workflows. You'll be introduced to key design principles and taught how to use software like SolidWorks or Fusion 360 to create mechanical parts, assemblies, and prepare them for manufacturing."
   },
   {
     "id": 10,
@@ -77,7 +87,8 @@
     "domain": "Computer Science",
     "date": "2025-07-25",
     "status": "upcoming",
-    "description": "Discuss the ethical implications and responsibilities of AI development."
+    "description": "Discuss the ethical implications and responsibilities of AI development.",
+    "details":"Discuss the ethical implications and responsibilities of AI development. This seminar explores bias in algorithms, privacy concerns, accountability, and regulations. Through interactive discussions, you'll examine real-world case studies and ethical dilemmas faced by AI developers."
   },
   {
     "id": 11,
@@ -85,7 +96,8 @@
     "domain": "Electronics",
     "date": "2025-06-20",
     "status": "past",
-    "description": "Create your own printed circuit board using EDA software."
+    "description": "Create your own printed circuit board using EDA software.",
+    "details":"Create your own printed circuit board using EDA software. This hands-on workshop guides you through schematic design, layout routing, and preparing your board for fabrication. You’ll learn to use tools like KiCad or Eagle and understand PCB manufacturing standards."
   },
   {
     "id": 12,
@@ -93,7 +105,8 @@
     "domain": "Product",
     "date": "2025-07-15",
     "status": "upcoming",
-    "description": "Understand the stages of product development from idea to market."
+    "description": "Understand the stages of product development from idea to market.",
+    "details":"Understand the stages of product development from idea to market. This workshop explores product roadmapping, cross-functional team collaboration, and lifecycle tools like PLM software. You’ll learn how to align engineering, marketing, and business strategies."
   },
   {
     "id": 13,
@@ -101,7 +114,8 @@
     "domain": "Computer Science",
     "date": "2025-06-03",
     "status": "past",
-    "description": "Learn the foundational data structures used in software development."
+    "description": "Learn the foundational data structures used in software development.",
+    "details":"Learn the foundational data structures used in software development. You'll understand the implementation and applications of arrays, linked lists, stacks, queues, trees, and graphs through code examples and problem-solving exercises."
   },
   {
     "id": 14,
@@ -109,7 +123,8 @@
     "domain": "Electronics",
     "date": "2025-06-25",
     "status": "past",
-    "description": "Build real-world projects using Arduino and simple components."
+    "description": "Build real-world projects using Arduino and simple components.",
+    "details":"Build real-world projects using Arduino and simple components. You'll program microcontrollers using the Arduino IDE and connect LEDs, motors, sensors, and displays. The lab sessions will walk you through the design and debugging of embedded projects."
   },
   {
     "id": 15,
@@ -117,7 +132,8 @@
     "domain": "Mechanical",
     "date": "2025-07-20",
     "status": "upcoming",
-    "description": "Compete in designing innovative mechanical systems using CAD."
+    "description": "Compete in designing innovative mechanical systems using CAD.",
+    "details":"Compete in designing innovative mechanical systems using CAD. You'll work under time constraints to model assemblies, simulate mechanics, and optimize designs. This challenge will test your creativity and proficiency with advanced CAD tools."
   },
   {
     "id": 16,
@@ -125,7 +141,8 @@
     "domain": "Product",
     "date": "2025-06-18",
     "status": "past",
-    "description": "Brainstorm and validate startup ideas using lean methodology."
+    "description": "Brainstorm and validate startup ideas using lean methodology.",
+    "details":"Brainstorm and validate startup ideas using lean methodology. You'll participate in guided exercises to identify market gaps, create value propositions, and build MVPs. Mentors will help you refine pitches and understand startup funding landscapes."
   },
   {
     "id": 17,
@@ -133,7 +150,8 @@
     "domain": "Computer Science",
     "date": "2025-07-05",
     "status": "upcoming",
-    "description": "Deploy trained AI models using web-based interfaces and APIs."
+    "description": "Deploy trained AI models using web-based interfaces and APIs.",
+    "details":"Deploy trained AI models using web-based interfaces and APIs. You'll learn to containerize models with Docker, use Flask or FastAPI for serving, and deploy on cloud platforms. This workshop bridges the gap between ML training and real-world usage."
   },
   {
     "id": 18,
@@ -141,7 +159,8 @@
     "domain": "Electronics",
     "date": "2025-06-06",
     "status": "past",
-    "description": "Connect and read data from various sensors using microcontrollers."
+    "description": "Connect and read data from various sensors using microcontrollers.",
+    "details":"Connect and read data from various sensors using microcontrollers. You'll explore analog and digital sensor integration, data filtering, and signal conditioning. Practical labs will include temperature, motion, and distance sensors."
   },
   {
     "id": 19,
@@ -149,7 +168,8 @@
     "domain": "Mechanical",
     "date": "2025-07-02",
     "status": "upcoming",
-    "description": "Master Fusion 360 tools for professional mechanical design."
+    "description": "Master Fusion 360 tools for professional mechanical design.",
+    "details":"Master Fusion 360 tools for professional mechanical design. You'll learn parametric modeling, assemblies, simulations, and rendering in Fusion 360. This workshop provides a complete workflow from sketching to final product visualization."
   },
   {
     "id": 20,
@@ -157,7 +177,8 @@
     "domain": "Product",
     "date": "2025-06-12",
     "status": "past",
-    "description": "Conduct usability testing and gather feedback for product improvement."
+    "description": "Conduct usability testing and gather feedback for product improvement.",
+    "details":"Conduct usability testing and gather feedback for product improvement. You'll design research protocols, conduct interviews and A/B tests, and analyze user behavior. The session emphasizes user empathy and data-driven design iteration."
   },
   {
     "id": 21,
@@ -165,7 +186,8 @@
     "domain": "Computer Science",
     "date": "2025-07-28",
     "status": "upcoming",
-    "description": "Build dynamic websites using modern web frameworks and databases."
+    "description": "Build dynamic websites using modern web frameworks and databases.",
+    "details":"Build dynamic websites using modern web frameworks and databases. You'll cover front-end (HTML, CSS, JavaScript) and back-end (Node.js, Django) development, along with REST APIs and database integration using SQL or MongoDB."
   },
   {
     "id": 22,
@@ -173,7 +195,8 @@
     "domain": "Electronics",
     "date": "2025-06-08",
     "status": "past",
-    "description": "Design and simulate analog circuits using industry-standard tools."
+    "description": "Design and simulate analog circuits using industry-standard tools.",
+    "details":"Design and simulate analog circuits using industry-standard tools. You’ll work with op-amps, filters, and amplifiers, and simulate your circuits in software like LTSpice or Multisim. Circuit behavior analysis and lab work are key parts of this workshop."
   },
   {
     "id": 23,
@@ -181,7 +204,8 @@
     "domain": "Mechanical",
     "date": "2025-07-08",
     "status": "upcoming",
-    "description": "Learn to create engineering drawings and blueprints for manufacturing."
+    "description": "Learn to create engineering drawings and blueprints for manufacturing.",
+    "details":"Learn to create engineering drawings and blueprints for manufacturing. This workshop introduces drawing standards, dimensioning techniques, and tolerance specifications using tools like AutoCAD and Solid Edge."
   },
   {
     "id": 24,
@@ -189,7 +213,8 @@
     "domain": "Product",
     "date": "2025-06-14",
     "status": "past",
-    "description": "Explore branding strategies and design effective product identities."
+    "description": "Explore branding strategies and design effective product identities.",
+    "details":"Explore branding strategies and design effective product identities. You'll understand brand positioning, visual identity, and storytelling. Exercises will include logo creation, brand persona building, and case study analysis."
   },
   {
     "id": 25,
@@ -197,6 +222,7 @@
     "domain": "Computer Science",
     "date": "2025-07-17",
     "status": "upcoming",
-    "description": "Process and analyze text data using NLP tools and models."
+    "description": "Process and analyze text data using NLP tools and models.",
+    "details":"Process and analyze text data using NLP tools and models. This session covers tokenization, sentiment analysis, named entity recognition, and transformer-based models. You'll build basic NLP pipelines using Python libraries like NLTK and spaCy."
   }
 ]

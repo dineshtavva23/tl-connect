@@ -20,14 +20,14 @@ export default function Workshops() {
                 <div className="flex space-x-4 mb-6">
                     <button
                         onClick={() => setFilter("upcoming")}
-                        className={`px-4 py-2 rounded ${filter === "upcoming" ? "bg-blue-500 text-white" : "bg-white border"
+                        className={`px-4 py-2 rounded ${filter === "upcoming" ? "bg-blue-500 text-white" : "bg-white text-gray-600"
                             }`}
                     >
                         Upcoming
                     </button>
                     <button
                         onClick={() => setFilter("past")}
-                        className={`px-4 py-2 rounded ${filter === "past" ? "bg-blue-500 text-white" : "bg-white border"
+                        className={`px-4 py-2 rounded ${filter === "past" ? "bg-blue-500 text-white" : "bg-white text-gray-600"
                             }`}
                     >
                         Past

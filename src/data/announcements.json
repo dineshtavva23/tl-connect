@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Lab Closed",
+    "date": "2025-06-25",
+    "message": "Tinkerers' Lab will remain closed on June 25 due to maintenance.",
+    "tag": "Critical"
+  },
+  {
+    "id": 2,
+    "title": "New Merchandise Launch",
+    "date": "2025-06-22",
+    "message": "Grab our all-new TL Connect branded goodies next week!",
+    "tag": "Important"
+  },
+  {
+    "id": 3,
+    "title": "Summer School Starts Monday",
+    "date": "2025-06-24",
+    "message": "All registered students must join the orientation on Google Meet.",
+    "tag": "Info"
+  },
+  {
+    "id": 4,
+    "title": "TL Hackathon Registration Open",
+    "date": "2025-06-26",
+    "message": "Register now for the 36-hour hackathon with exciting prizes and swag.",
+    "tag": "Important"
+  },
+  {
+    "id": 5,
+    "title": "3D Printer Maintenance",
+    "date": "2025-06-27",
+    "message": "The Prusa MK3 printer will be unavailable for the next 48 hours.",
+    "tag": "Critical"
+  },
+  {
+    "id": 6,
+    "title": "TL Connect App Update",
+    "date": "2025-06-21",
+    "message": "Please update the app to v2.1.0 to access the latest features.",
+    "tag": "Info"
+  },
+  {
+    "id": 7,
+    "title": "Monthly Feedback Drive",
+    "date": "2025-06-20",
+    "message": "Share your feedback and stand a chance to win TL goodies!",
+    "tag": "Info"
+  },
+  {
+    "id": 8,
+    "title": "Workshop: Fusion 360 Crash Course",
+    "date": "2025-06-28",
+    "message": "Join the crash course to master basic 3D design in just 2 hours.",
+    "tag": "Important"
+  },
+  {
+    "id": 9,
+    "title": "Electrical Tools Safety Briefing",
+    "date": "2025-06-29",
+    "message": "All members must attend the mandatory safety briefing before using electrical stations.",
+    "tag": "Critical"
+  },
+  {
+    "id": 10,
+    "title": "Membership Renewal Reminder",
+    "date": "2025-07-01",
+    "message": "Renew your TL membership before July 5 to avoid losing access.",
+    "tag": "Important"
+  }
+]

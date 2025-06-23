@@ -13,15 +13,15 @@ export default function Footer() {
                         <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-black text-xl">
                             <FaLinkedin />
                         </a>
-                        <a href="mailto:your-email@example.com" className="text-gray-700 hover:text-black text-xl">
+                        <a href="mailto:tl@campus.iith.ac.in" className="text-gray-700 hover:text-black text-xl">
                             <FaEnvelope />
                         </a>
                     </div>
                 </div>
                 <div className="flex space-x-4 mt-2 md:mt-0">
-                    <a href="#" className="hover:underline">About</a>
-                    <a href="#" className="hover:underline">Contact</a>
-                    <a href="#" className="hover:underline">Privacy</a>
+                    <a href="#" className="hover:scale-105">About</a>
+                    <a href="#" className="hover:scale-105">Contact</a>
+                    <a href="#" className="hover:scale-105">Privacy</a>
                 </div>
             </div>
         </footer>
