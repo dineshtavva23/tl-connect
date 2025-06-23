@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 export default function TaskCard({ title, priority, status, due_date, description }) {
   const statusColors = {
     "Pending": "bg-yellow-100 text-yellow-800",
@@ -6,18 +7,25 @@ export default function TaskCard({ title, priority, status, due_date, descriptio
   };
 
   return (
-    <div className="p-5 rounded-2xl shadow-sm bg-white border hover:shadow-md transition duration-300">
-      <div className="flex justify-between items-center mb-2">
-        <h2 className="text-lg font-semibold text-gray-800">{title}</h2>
-        <span className={`text-xs px-2 py-1 rounded-full font-medium ${statusColors[status]}`}>
-          {status}
-        </span>
+    <motion.div
+      className="bg-gray-200 "
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.8, ease: "easeOut" }}
+    >
+      <div className="p-5 rounded-2xl shadow-sm bg-white border hover:shadow-md transition duration-300">
+        <div className="flex justify-between items-center mb-2">
+          <h2 className="text-lg font-semibold text-gray-800">{title}</h2>
+          <span className={`text-xs px-2 py-1 rounded-full font-medium ${statusColors[status]}`}>
+            {status}
+          </span>
+        </div>
+        <p className="text-sm text-gray-600 mb-4">{description}</p>
+        <div className="flex justify-between text-sm text-gray-500">
+          <span className="font-medium">Priority: <span className="text-gray-700">{priority}</span></span>
+          <span>Due: {due_date}</span>
+        </div>
       </div>
-      <p className="text-sm text-gray-600 mb-4">{description}</p>
-      <div className="flex justify-between text-sm text-gray-500">
-        <span className="font-medium">Priority: <span className="text-gray-700">{priority}</span></span>
-        <span>Due: {due_date}</span>
-      </div>
-    </div>
+    </motion.div>
   );
 }

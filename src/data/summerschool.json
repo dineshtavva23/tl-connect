@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "topic": "Intro to Embedded Systems",
+    "date": "2025-07-01",
+    "meetLink": "https://meet.google.com/xyz-intro",
+    "resources": [
+      { "label": "Slides", "url": "/resources/embedded-slides.pdf" },
+      { "label": "PDF Notes", "url": "/resources/embedded-notes.pdf" }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Sensors and Interfacing",
+    "date": "2025-07-03",
+    "meetLink": "https://meet.google.com/xyz-sensors",
+    "resources": [
+      { "label": "Slides", "url": "/resources/sensors-slides.pdf" }
+    ]
+  }
+,
+  {
+    "id": 3,
+    "topic": "Microcontroller Basics",
+    "date": "2025-07-05",
+    "meetLink": "https://meet.google.com/xyz-micro",
+    "resources": [
+      { "label": "Slides", "url": "/resources/microcontroller-slides.pdf" },
+      { "label": "Code Examples", "url": "/resources/microcontroller-code.zip" }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Actuators in Embedded Systems",
+    "date": "2025-07-07",
+    "meetLink": "https://meet.google.com/xyz-actuators",
+    "resources": [
+      { "label": "PDF Notes", "url": "/resources/actuators-notes.pdf" }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Real-Time Operating Systems",
+    "date": "2025-07-09",
+    "meetLink": "https://meet.google.com/xyz-rtos",
+    "resources": [
+      { "label": "Slides", "url": "/resources/rtos-slides.pdf" },
+      { "label": "Cheat Sheet", "url": "/resources/rtos-cheatsheet.pdf" }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "I2C and SPI Communication",
+    "date": "2025-07-11",
+    "meetLink": "https://meet.google.com/xyz-i2cspi",
+    "resources": [
+      { "label": "Slides", "url": "/resources/i2c-spi-slides.pdf" },
+      { "label": "Example Code", "url": "/resources/i2c-spi-code.zip" }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Power Management in Embedded Systems",
+    "date": "2025-07-13",
+    "meetLink": "https://meet.google.com/xyz-power",
+    "resources": [
+      { "label": "PDF Notes", "url": "/resources/power-management-notes.pdf" }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Introduction to Embedded Linux",
+    "date": "2025-07-15",
+    "meetLink": "https://meet.google.com/xyz-linux",
+    "resources": [
+      { "label": "Slides", "url": "/resources/embedded-linux-slides.pdf" },
+      { "label": "Lab Setup Guide", "url": "/resources/linux-setup.pdf" }
+    ]
+  }
+]

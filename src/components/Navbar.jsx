@@ -42,25 +42,32 @@ export default function Navbar() {
           <Link href="/tasks" className="hover:scale-105">
             Tasks
           </Link>
+          <Link href="/summerschool" className="hover:scale-105">
+          Summer school
+          </Link>
           <Link href="/announcements" className="hover:scale-105">
             Announcements
           </Link>
+          
         </div>
       </div>
 
       {/* Mobile Menu */}
       {isOpen && (
         <div className="md:hidden mt-2 space-y-2 text-black text-center">
-          <Link href="/dashboard" className="block hover:underline">
+          <Link href="/dashboard" className="block hover:scale-105">
             Dashboard
           </Link>
-          <Link href="/workshops" className="block hover:underline">
+          <Link href="/workshops" className="block hover:scale-105">
             Workshops
           </Link>
-          <Link href="/tasks" className="block hover:underline">
+          <Link href="/tasks" className="block hover:scale-105">
             Tasks
           </Link>
-          <Link href="/announcements" className="block hover:underline">
+          <Link href="/summerschool" className="block hover:scale-105">
+          Summer school
+          </Link>
+          <Link href="/announcements" className="block hover:scale-105">
             Announcements
           </Link>
         </div>
