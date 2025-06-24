@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sahana",
+    "domain": "Design Team",
+    "email": "sahana@iith.ac.in"
+  },
+  {
+    "id": 2,
+    "name": "Praveen",
+    "domain": "Web Team",
+    "email": "praveen@iith.ac.in"
+  },
+  {
+    "id": 3,
+    "name": "Ankit",
+    "domain": "Electronics Team",
+    "email": "ankit@iith.ac.in"
+  },
+  {
+    "id": 4,
+    "name": "Shruti",
+    "domain": "Design Team",
+    "email": "shruti@iith.ac.in"
+  }
+]

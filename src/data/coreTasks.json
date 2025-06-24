@@ -1,0 +1,75 @@
+[
+  {
+    "id": 101,
+    "title": "Design Welcome Poster",
+    "description": "Create a poster for Summer School Day 1",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 102,
+    "title": "Create Event Banner",
+    "description": "Banner for TL Connect website homepage",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 201,
+    "title": "Build Login Page",
+    "description": "Implement role-based login in Next.js",
+    "assignedTo": "Web"
+  },
+  {
+    "id": 202,
+    "title": "API Setup for Workshop Data",
+    "description": "Build GET/POST API for managing workshops",
+    "assignedTo": "Web"
+  },
+  {
+    "id": 301,
+    "title": "Setup Arduino Sensors",
+    "description": "Connect and test IR + Ultrasonic sensors",
+    "assignedTo": "Electronics"
+  },
+  {
+    "id": 302,
+    "title": "Write Microcontroller Code",
+    "description": "Control sensors and push readings to dashboard",
+    "assignedTo": "Electronics"
+  },
+  {
+    "id": 103,
+    "title": "Design Certificate Template",
+    "description": "Create a certificate template for workshop participants",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 104,
+    "title": "Create Social Media Post",
+    "description": "Design an Instagram post for upcoming AI workshop",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 203,
+    "title": "Dashboard Card Integration",
+    "description": "Display live workshop data in dashboard cards",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 204,
+    "title": "Secure API Authentication",
+    "description": "Add token-based auth for admin API routes",
+    "assignedTo": "Design"
+  },
+  {
+    "id": 303,
+    "title": "Solder Power Supply Unit",
+    "description": "Assemble and solder custom power supply circuit",
+    "assignedTo": "Electronics"
+  },
+  {
+    "id": 304,
+    "title": "PCB Testing & Debugging",
+    "description": "Test PCBs for short circuits and validate functionality",
+    "assignedTo": "Electronics"
+  }
+]
+

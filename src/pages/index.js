@@ -4,17 +4,25 @@ import { useRouter } from "next/router";
 
 
 export default function Home() {
-  const[role,setRole]= useState('');
+  const [role, setRole] = useState('');
   const router = useRouter();
 
 
-  const handleLogin=()=>{
-    if(role){
-      localStorage.setItem('userRole',role);
-      router.push('/dashboard')
+  const handleLogin = () => {
+    if (role) {
+      // localStorage.setItem('userRole',role);
+      if (role === "core") {
+        router.push('/core/dashboard')
+      }
+      else if (role === "student") {
+        router.push('/student/dashboard')
+      }
+      else if(role === "head"){
+        router.push('/head/dashboard')
+      }
     }
   };
-  
+
 
 
   return (
@@ -28,8 +36,8 @@ export default function Home() {
         >
           <option value="">Select Role</option>
           <option value="core">Core</option>
-          {/* <option value="lead">Domain Lead</option>
-          <option value="member">Member</option> */}
+          {/* <option value="lead">Domain Lead</option> */}
+          <option value="head">Head</option> 
           <option value="student">Student</option>
         </select>
         <button
