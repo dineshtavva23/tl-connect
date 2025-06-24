@@ -1,8 +1,14 @@
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter();
+  const handleLogout = () => {
+    localStorage.clear();
+    router.push("/");
+  };
 
   return (
     <nav className="bg-white shadow-md p-4">
@@ -43,12 +49,18 @@ export default function Navbar() {
             Tasks
           </Link>
           <Link href="/student/summerschool" className="hover:scale-105">
-          Summer school
+            Summer school
           </Link>
           <Link href="/student/announcements" className="hover:scale-105">
             Announcements
           </Link>
-          
+
+        <button
+          onClick={handleLogout}
+          className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm"
+        >
+          Logout
+        </button>
         </div>
       </div>
 
@@ -65,11 +77,17 @@ export default function Navbar() {
             Tasks
           </Link>
           <Link href="/student/summerschool" className="block hover:scale-105">
-          Summer school
+            Summer school
           </Link>
           <Link href="/student/announcements" className="block hover:scale-105">
             Announcements
           </Link>
+          <button
+            onClick={handleLogout}
+            className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm"
+          >
+            Logout
+          </button>
         </div>
       )}
     </nav>

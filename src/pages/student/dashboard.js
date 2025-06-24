@@ -5,8 +5,7 @@ import Card from "@/components/Card";
 import announcements from "@/data/announcements.json";
 import lectures from "@/data/summerschool.json";
 import Footer from "@/components/Footer";
-import { useEffect, useState } from "react";
-import { useRouter } from "next/router";
+
 
 export default function Dashboard() {
   const upcomingWorkshops = workshops.filter(w => w.status === "upcoming").slice(0, 3);

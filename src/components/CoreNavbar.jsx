@@ -48,7 +48,13 @@ export default function Navbar() {
           <Link href="/core/announcements" className="hover:scale-105">
             Announcements
           </Link>
-          
+          <button
+            onClick={handleLogout}
+            className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm"
+          >
+            Logout
+          </button>
+
         </div>
       </div>
 
@@ -70,6 +76,12 @@ export default function Navbar() {
           <Link href="/core/announcements" className="block hover:scale-105">
             Announcements
           </Link>
+          <button
+            onClick={handleLogout}
+            className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm"
+          >
+            Logout
+          </button>
         </div>
       )}
     </nav>
