@@ -15,6 +15,7 @@ export default function Home() {
         router.push('/core/dashboard')
       }
       else if (role === "student") {
+        // console.log("check");
         router.push('/student/dashboard')
       }
       else if(role === "head"){
