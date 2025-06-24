@@ -10,6 +10,7 @@ export default function Home() {
 
   const handleLogin=()=>{
     if(role){
+      localStorage.setItem('userRole',role);
       router.push('/dashboard')
     }
   };
@@ -27,8 +28,8 @@ export default function Home() {
         >
           <option value="">Select Role</option>
           <option value="core">Core</option>
-          <option value="lead">Domain Lead</option>
-          <option value="member">Member</option>
+          {/* <option value="lead">Domain Lead</option>
+          <option value="member">Member</option> */}
           <option value="student">Student</option>
         </select>
         <button

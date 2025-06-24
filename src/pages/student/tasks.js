@@ -1,4 +1,4 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/StudentNavbar";
 import Footer from "@/components/Footer";
 import tasks from "@/data/tasks.json";
 import TaskCard from "@/components/TaskCard"

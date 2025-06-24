@@ -19,7 +19,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="flex space-x-4 mt-2 md:mt-0">
-                    <a href="#" className="hover:scale-105">About</a>
+                    <a href="https://tinkererslab.iith.ac.in/" className="hover:scale-105">About</a>
                     <a href="#" className="hover:scale-105">Contact</a>
                     <a href="#" className="hover:scale-105">Privacy</a>
                 </div>

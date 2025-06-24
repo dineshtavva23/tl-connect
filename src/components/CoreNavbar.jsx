@@ -33,19 +33,19 @@ export default function Navbar() {
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-4 text-black">
-          <Link href="/dashboard" className="hover:scale-105">
+          <Link href="/core/dashboard" className="hover:scale-105">
             Dashboard
           </Link>
-          <Link href="/workshops" className="hover:scale-105">
+          <Link href="/core/workshops" className="hover:scale-105">
             Workshops
           </Link>
-          <Link href="/tasks" className="hover:scale-105">
+          <Link href="/core/tasks" className="hover:scale-105">
             Tasks
           </Link>
-          <Link href="/summerschool" className="hover:scale-105">
+          {/* <Link href="/summerschool" className="hover:scale-105">
           Summer school
-          </Link>
-          <Link href="/announcements" className="hover:scale-105">
+          </Link> */}
+          <Link href="/core/announcements" className="hover:scale-105">
             Announcements
           </Link>
           
@@ -55,19 +55,19 @@ export default function Navbar() {
       {/* Mobile Menu */}
       {isOpen && (
         <div className="md:hidden mt-2 space-y-2 text-black text-center">
-          <Link href="/dashboard" className="block hover:scale-105">
+          <Link href="/core/dashboard" className="block hover:scale-105">
             Dashboard
           </Link>
-          <Link href="/workshops" className="block hover:scale-105">
+          <Link href="/core/workshops" className="block hover:scale-105">
             Workshops
           </Link>
-          <Link href="/tasks" className="block hover:scale-105">
+          <Link href="/core/tasks" className="block hover:scale-105">
             Tasks
           </Link>
-          <Link href="/summerschool" className="block hover:scale-105">
+          {/* <Link href="/summerschool" className="block hover:scale-105">
           Summer school
-          </Link>
-          <Link href="/announcements" className="block hover:scale-105">
+          </Link> */}
+          <Link href="/core/announcements" className="block hover:scale-105">
             Announcements
           </Link>
         </div>

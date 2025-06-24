@@ -3,6 +3,7 @@
     "id": 1,
     "topic": "Intro to Embedded Systems",
     "date": "2025-07-01",
+    "description": "Kickstart your journey into embedded systems with a session covering fundamental concepts, architecture, and applications.",
     "meetLink": "https://meet.google.com/xyz-intro",
     "resources": [
       { "label": "Slides", "url": "/resources/embedded-slides.pdf" },
@@ -13,16 +14,17 @@
     "id": 2,
     "topic": "Sensors and Interfacing",
     "date": "2025-07-03",
+    "description": "Learn how to integrate and interface various types of sensors with microcontrollers to collect meaningful data.",
     "meetLink": "https://meet.google.com/xyz-sensors",
     "resources": [
       { "label": "Slides", "url": "/resources/sensors-slides.pdf" }
     ]
-  }
-,
+  },
   {
     "id": 3,
     "topic": "Microcontroller Basics",
     "date": "2025-07-05",
+    "description": "Understand the core components and functions of microcontrollers, and how to write and upload basic programs.",
     "meetLink": "https://meet.google.com/xyz-micro",
     "resources": [
       { "label": "Slides", "url": "/resources/microcontroller-slides.pdf" },
@@ -33,6 +35,7 @@
     "id": 4,
     "topic": "Actuators in Embedded Systems",
     "date": "2025-07-07",
+    "description": "Dive into actuators and their role in embedded systems, including motors, relays, and other mechanical components.",
     "meetLink": "https://meet.google.com/xyz-actuators",
     "resources": [
       { "label": "PDF Notes", "url": "/resources/actuators-notes.pdf" }
@@ -42,6 +45,7 @@
     "id": 5,
     "topic": "Real-Time Operating Systems",
     "date": "2025-07-09",
+    "description": "Explore how RTOS enables multitasking in embedded applications and understand task scheduling, priorities, and synchronization.",
     "meetLink": "https://meet.google.com/xyz-rtos",
     "resources": [
       { "label": "Slides", "url": "/resources/rtos-slides.pdf" },
@@ -52,6 +56,7 @@
     "id": 6,
     "topic": "I2C and SPI Communication",
     "date": "2025-07-11",
+    "description": "Learn about the two most popular embedded communication protocols—I2C and SPI—and how to use them effectively.",
     "meetLink": "https://meet.google.com/xyz-i2cspi",
     "resources": [
       { "label": "Slides", "url": "/resources/i2c-spi-slides.pdf" },
@@ -62,6 +67,7 @@
     "id": 7,
     "topic": "Power Management in Embedded Systems",
     "date": "2025-07-13",
+    "description": "Understand low-power design techniques and how to optimize energy usage for embedded applications running on battery power.",
     "meetLink": "https://meet.google.com/xyz-power",
     "resources": [
       { "label": "PDF Notes", "url": "/resources/power-management-notes.pdf" }
@@ -71,6 +77,7 @@
     "id": 8,
     "topic": "Introduction to Embedded Linux",
     "date": "2025-07-15",
+    "description": "Get introduced to Linux for embedded platforms—covering bootloaders, filesystems, command-line tools, and more.",
     "meetLink": "https://meet.google.com/xyz-linux",
     "resources": [
       { "label": "Slides", "url": "/resources/embedded-linux-slides.pdf" },

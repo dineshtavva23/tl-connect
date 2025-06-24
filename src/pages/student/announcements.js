@@ -1,4 +1,4 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/StudentNavbar";
 import Footer from "@/components/Footer";
 import AnnouncementCard from "@/components/AnnouncementCard";
 import announcements from "@/data/announcements.json";
