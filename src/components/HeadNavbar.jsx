@@ -1,8 +1,14 @@
 import { useState } from "react";
+import { useRouter } from "next/router";
 import Link from "next/link";
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
+      const router = useRouter();
+      const handleLogout = () => {
+        localStorage.clear();
+        router.push("/");
+      };
 
     return (
         <nav className="bg-white shadow-md p-4">
